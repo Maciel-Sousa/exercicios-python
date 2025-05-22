@@ -46,9 +46,5 @@ print("Distância percorrida:", distancia, "km")
 print("Combustível gasto:", combustivel, "litros")
 print("Consumo médio:", consumo_medio, "km/l")
 
-git init
-git add Exercicio06.py
-git commit -m "Adiciona o exercício 06" 
-git remote add origin https://github.com/Maciel-Sousa/exercicios-python.git
-git push -u origin main
+
 
