@@ -48,3 +48,4 @@ print("Consumo médio:", consumo_medio, "km/l")
 
 
 
+
